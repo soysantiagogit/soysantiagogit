@@ -33,7 +33,7 @@ API REST completa para gestionar una tienda. Incluye CRUD de productos, clientes
 
 ---
 
-### 🔐 [API Autenticación FastAPI](https://github.com/soysantiagogit/API-Autenticacion-FastAPI)
+### 🔐 [API-Autenticaci-n-FastAPI-](https://github.com/soysantiagogit/API-Autenticaci-n-FastAPI-)
 Sistema de autenticación de usuarios con registro, login y rutas protegidas usando JWT y bcrypt.
 - **Tecnologías:** FastAPI · JWT · bcrypt · SQLAlchemy
 
